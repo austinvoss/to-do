@@ -1,0 +1,70 @@
+2023-09-19 15:25:34.843 PDT [37574] LOG:  starting PostgreSQL 16.0 on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit
+2023-09-19 15:25:34.845 PDT [37574] LOG:  listening on IPv6 address "::1", port 5432
+2023-09-19 15:25:34.845 PDT [37574] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2023-09-19 15:25:34.845 PDT [37574] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2023-09-19 15:25:34.847 PDT [37577] LOG:  database system was shut down at 2023-09-19 15:25:34 PDT
+2023-09-19 15:25:34.848 PDT [37574] LOG:  database system is ready to accept connections
+2023-09-19 15:30:34.871 PDT [37575] LOG:  checkpoint starting: time
+2023-09-19 15:32:13.989 PDT [37575] LOG:  checkpoint complete: wrote 983 buffers (6.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=99.100 s, sync=0.013 s, total=99.118 s; sync files=317, longest=0.001 s, average=0.001 s; distance=4634 kB, estimate=4634 kB; lsn=0/1BD05A8, redo lsn=0/1BD0570
+2023-09-19 21:47:18.122 PDT [37575] LOG:  checkpoint starting: time
+2023-09-19 21:47:23.354 PDT [37575] LOG:  checkpoint complete: wrote 52 buffers (0.3%); 1 WAL file(s) added, 0 removed, 0 recycled; write=5.189 s, sync=0.005 s, total=5.232 s; sync files=44, longest=0.001 s, average=0.001 s; distance=194 kB, estimate=4190 kB; lsn=0/1C010A8, redo lsn=0/1C01070
+2023-09-19 21:52:18.361 PDT [37575] LOG:  checkpoint starting: time
+2023-09-19 21:52:19.489 PDT [37575] LOG:  checkpoint complete: wrote 12 buffers (0.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=1.122 s, sync=0.001 s, total=1.128 s; sync files=9, longest=0.001 s, average=0.001 s; distance=32 kB, estimate=3774 kB; lsn=0/1C091F0, redo lsn=0/1C091B8
+2023-09-19 22:05:26.478 PDT [41918] FATAL:  database "to-do" does not exist
+2023-09-19 22:05:26.478 PDT [41919] FATAL:  database "to-do" does not exist
+2023-09-19 22:05:27.445 PDT [41920] FATAL:  database "to-do" does not exist
+2023-09-19 22:05:27.445 PDT [41921] FATAL:  database "to-do" does not exist
+2023-09-19 22:07:27.614 PDT [42195] FATAL:  database "to-do" does not exist
+2023-09-19 22:07:27.614 PDT [42196] FATAL:  database "to-do" does not exist
+2023-09-19 22:07:28.554 PDT [42199] FATAL:  database "to-do" does not exist
+2023-09-19 22:07:28.554 PDT [42198] FATAL:  database "to-do" does not exist
+2023-09-19 22:08:32.427 PDT [42261] FATAL:  database "to-do" does not exist
+2023-09-19 22:08:32.427 PDT [42260] FATAL:  database "to-do" does not exist
+2023-09-19 22:08:33.399 PDT [42263] FATAL:  database "to-do" does not exist
+2023-09-19 22:08:33.400 PDT [42264] FATAL:  database "to-do" does not exist
+2023-09-19 22:08:49.583 PDT [42271] FATAL:  database "to-do" does not exist
+2023-09-19 22:08:49.585 PDT [42272] FATAL:  database "to-do" does not exist
+2023-09-19 22:09:02.985 PDT [42338] FATAL:  database "to-do" does not exist
+2023-09-19 22:09:02.985 PDT [42337] FATAL:  database "to-do" does not exist
+2023-09-19 22:09:06.170 PDT [42339] FATAL:  database "to-do" does not exist
+2023-09-19 22:09:06.170 PDT [42340] FATAL:  database "to-do" does not exist
+2023-09-19 22:09:37.800 PDT [42394] FATAL:  database "to-do" does not exist
+2023-09-19 22:09:39.836 PDT [42396] FATAL:  database "to-do" does not exist
+2023-09-19 22:09:39.836 PDT [42397] FATAL:  database "to-do" does not exist
+2023-09-19 22:09:45.730 PDT [42404] FATAL:  database "to-do" does not exist
+2023-09-19 22:09:45.730 PDT [42403] FATAL:  database "to-do" does not exist
+2023-09-19 22:09:55.659 PDT [42415] FATAL:  database "to-do" does not exist
+2023-09-19 22:09:55.659 PDT [42414] FATAL:  database "to-do" does not exist
+2023-09-19 22:10:10.841 PDT [42470] FATAL:  database "to-do" does not exist
+2023-09-19 22:10:10.841 PDT [42471] FATAL:  database "to-do" does not exist
+2023-09-19 22:10:11.586 PDT [42473] FATAL:  database "to-do" does not exist
+2023-09-19 22:10:11.588 PDT [42474] FATAL:  database "to-do" does not exist
+2023-09-19 22:19:50.426 PDT [42693] FATAL:  database "to-do" does not exist
+2023-09-19 22:19:50.426 PDT [42694] FATAL:  database "to-do" does not exist
+2023-09-19 22:19:51.471 PDT [42696] FATAL:  database "to-do" does not exist
+2023-09-19 22:19:51.473 PDT [42695] FATAL:  database "to-do" does not exist
+2023-09-19 22:20:04.243 PDT [42757] FATAL:  database "to-do" does not exist
+2023-09-19 22:20:04.243 PDT [42758] FATAL:  database "to-do" does not exist
+2023-09-19 22:20:05.852 PDT [42760] FATAL:  database "to-do" does not exist
+2023-09-19 22:20:05.853 PDT [42759] FATAL:  database "to-do" does not exist
+2023-09-19 22:20:58.478 PDT [42776] FATAL:  database "to-do" does not exist
+2023-09-19 22:20:58.478 PDT [42775] FATAL:  database "to-do" does not exist
+2023-09-19 22:22:18.467 PDT [37575] LOG:  checkpoint starting: time
+2023-09-19 22:22:18.578 PDT [37575] LOG:  checkpoint complete: wrote 1 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.103 s, sync=0.001 s, total=0.114 s; sync files=1, longest=0.001 s, average=0.001 s; distance=0 kB, estimate=3397 kB; lsn=0/1C09430, redo lsn=0/1C093F8
+2023-09-19 22:27:18.581 PDT [37575] LOG:  checkpoint starting: time
+2023-09-19 22:27:18.896 PDT [37575] LOG:  checkpoint complete: wrote 4 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.308 s, sync=0.002 s, total=0.315 s; sync files=4, longest=0.001 s, average=0.001 s; distance=0 kB, estimate=3057 kB; lsn=0/1C09740, redo lsn=0/1C09708
+2023-09-19 22:37:18.930 PDT [37575] LOG:  checkpoint starting: time
+2023-09-19 22:37:19.041 PDT [37575] LOG:  checkpoint complete: wrote 2 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.103 s, sync=0.001 s, total=0.111 s; sync files=2, longest=0.001 s, average=0.001 s; distance=0 kB, estimate=2752 kB; lsn=0/1C09A20, redo lsn=0/1C099E8
+2023-09-19 22:42:18.046 PDT [37575] LOG:  checkpoint starting: time
+2023-09-19 22:42:18.362 PDT [37575] LOG:  checkpoint complete: wrote 4 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.306 s, sync=0.001 s, total=0.317 s; sync files=4, longest=0.001 s, average=0.001 s; distance=1 kB, estimate=2476 kB; lsn=0/1C09F40, redo lsn=0/1C09F08
+2023-09-19 22:47:18.367 PDT [37575] LOG:  checkpoint starting: time
+2023-09-19 22:47:18.677 PDT [37575] LOG:  checkpoint complete: wrote 4 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.305 s, sync=0.002 s, total=0.311 s; sync files=4, longest=0.001 s, average=0.001 s; distance=1 kB, estimate=2229 kB; lsn=0/1C0A4C8, redo lsn=0/1C0A490
+2023-09-19 22:52:18.682 PDT [37575] LOG:  checkpoint starting: time
+2023-09-19 22:52:18.794 PDT [37575] LOG:  checkpoint complete: wrote 1 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.103 s, sync=0.001 s, total=0.112 s; sync files=1, longest=0.001 s, average=0.001 s; distance=0 kB, estimate=2006 kB; lsn=0/1C0A830, redo lsn=0/1C0A7F8
+2023-09-21 15:33:33.347 PDT [37574] LOG:  received fast shutdown request
+2023-09-21 15:33:33.349 PDT [37574] LOG:  aborting any active transactions
+2023-09-21 15:33:33.355 PDT [37574] LOG:  background worker "logical replication launcher" (PID 37580) exited with exit code 1
+2023-09-21 15:33:33.355 PDT [37575] LOG:  shutting down
+2023-09-21 15:33:33.356 PDT [37575] LOG:  checkpoint starting: shutdown immediate
+2023-09-21 15:33:33.366 PDT [37575] LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.003 s, sync=0.001 s, total=0.011 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=1805 kB; lsn=0/1C0A8E0, redo lsn=0/1C0A8E0
+2023-09-21 15:33:33.372 PDT [37574] LOG:  database system is shut down
